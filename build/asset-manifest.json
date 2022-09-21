@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.116f2f4a.css",
+    "main.js": "/static/js/main.58446c8d.js",
+    "static/media/city.png": "/static/media/city.a15923a4080ce5297a09.png",
+    "static/media/logInBg.png": "/static/media/logInBg.84f4bd5f3af1db0acfef.png",
+    "static/media/network.png": "/static/media/network.0c01dc0e38fe538f759f.png",
+    "static/media/bg note .png": "/static/media/bg note .192bbc84086cb16ce15e.png",
+    "static/media/Rectangle.png": "/static/media/Rectangle.ba6df6fb6d0f0102ea0f.png",
+    "static/media/team.png": "/static/media/team.4a0f3eacc80886701db6.png",
+    "static/media/earth.png": "/static/media/earth.8483d9b1cc63f066f979.png",
+    "static/media/oval2.png": "/static/media/oval2.7c3b40e9339bcdb4427a.png",
+    "static/media/download.png": "/static/media/download.e2a3af4db9e5ff5f10bc.png",
+    "static/media/waves.png": "/static/media/waves.c7b472155d5e9c2ab8a6.png",
+    "static/media/bgNav.png": "/static/media/bgNav.a0c057bd5995a56fab21.png",
+    "static/media/rooms.png": "/static/media/rooms.93fb19cff43b28bd0db1.png",
+    "static/media/bg logo.png": "/static/media/bg logo.01bd058fa0c4a3d4f169.png",
+    "static/media/bg logo croped.png": "/static/media/bg logo croped.619a4a4135d63d058f14.png",
+    "static/media/partner.png": "/static/media/partner.a2b0263a1ff8bd4242bf.png",
+    "static/media/sky.png": "/static/media/sky.c395c77c2ce77cb4e4c4.png",
+    "index.html": "/index.html",
+    "main.116f2f4a.css.map": "/static/css/main.116f2f4a.css.map",
+    "main.58446c8d.js.map": "/static/js/main.58446c8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.116f2f4a.css",
+    "static/js/main.58446c8d.js"
+  ]
+}
